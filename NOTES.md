@@ -135,3 +135,5 @@ Examples on the Docker Store
 ## Troubleshooting Docker Networking
 
 > https://docs.docker.com/reference/cli/docker/container/logs/
+
+> docker run -it --net host nicolaka/netshoot
